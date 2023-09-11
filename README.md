@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN STACK, FNM**
 
-- 👯 I’m looking to collaborate on **E-commerce**
+- 👯 I’m looking for collaborate my experience with others**
 
-- 🤝 I’m looking for help with **Chat App**
+- 🤝 I’m looking for help others to be professional in programming.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrDabbour](https://github.com/mrDabbour)
 
@@ -21,7 +21,7 @@
 
 - 📄My CV [https://drive.google.com/drive/folders/1IT9wM-d3QJBZeROFHMWA01DcwiKrKK4E](https://drive.google.com/drive/folders/1IT9wM-d3QJBZeROFHMWA01DcwiKrKK4E)
 
-- ⚡ Fun fact **I think I love to learn constantly**
+- ⚡ Fun fact **I love Cooking 😄, I think it's the same thing when get some code 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
