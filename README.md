@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdabbour&label=Profile%20views&color=0e75b6&style=flat" alt="mrdabbour" /> </p>
 <p align="left"> <a href="https://twitter.com/mohamddaboor" target="blank"><img src="https://img.shields.io/twitter/follow/mohamddaboor?logo=twitter&style=for-the-badge" alt="mohamddaboor" /></a> </p>
 
-- 🔭 I’m currently working on [Store Web APP](https://github.com/mrDabbour/Store_Web-Application-MERN-)
+- 🔭 Working as [ a Freelancer](https://github.com/mrDabbour/Store_Web-Application-MERN-)
 
 - 🌱 I’m currently learning **MERN STACK, FNM**
 
