@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamd Dabour</h1>
-<h3 align="center">A passionate backend developer from Palestine</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Dabboor</h1>
+<h3 align="center">A passionate backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdabbour&label=Profile%20views&color=0e75b6&style=flat" alt="mrdabbour" /> </p>
 <p align="left"> <a href="https://twitter.com/mohamddaboor" target="blank"><img src="https://img.shields.io/twitter/follow/mohamddaboor?logo=twitter&style=for-the-badge" alt="mohamddaboor" /></a> </p>
 
